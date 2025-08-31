@@ -32,11 +32,12 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>WiFi密码暴力破解工具v1.2.5 by 白恒aead</string>
+   <string>WiFi密码暴力破解工具v1.2.5aead</string>
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>images/wificrack.ico</normaloff>images/wificrack.ico</iconset>
+    <normaloff>images/wificrack.ico</normaloff>
+   </iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="sizePolicy">
